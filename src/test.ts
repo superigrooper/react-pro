@@ -1,0 +1,1 @@
+export const myFun = (arg: string): void => console.log(arg)
